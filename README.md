@@ -220,10 +220,3 @@ IN_SIZE = '10'            # You can modify your instance size here
 ## Conclusion
 It's a simple python script to create AWS infrastructure like ansible/terraform but we don't use this we can able to create the same through python and it's an educational purpose. I hope you all understood the same and let me know your thoughts and comments.
 
-### ⚙️ Connect with Me 
-
-<p align="center">
-<a href="mailto:yousaf.k.hamza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/yousafkhamza"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-<a href="https://www.instagram.com/yousafkhamza"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://wa.me/%2B917736720639?text=This%20message%20from%20GitHub."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a><br />
