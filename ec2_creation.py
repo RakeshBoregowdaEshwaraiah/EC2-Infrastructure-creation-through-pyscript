@@ -2,7 +2,7 @@ import boto3
 import datetime
 import os
 from botocore.exceptions import ClientError
-import config
+import config           
 import var
 
 ec2_client = boto3.client('ec2',
