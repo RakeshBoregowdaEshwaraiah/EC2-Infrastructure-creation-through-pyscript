@@ -4,7 +4,7 @@ import os
 from botocore.exceptions import ClientError
 import config           
 import var
-
+         
 ec2_client = boto3.client('ec2',
                       aws_access_key_id=config.AWS_ACCESS_KEY_ID,
                       aws_secret_access_key=config.AWS_SECRET_ACCESS_KEY,
